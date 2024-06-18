@@ -5,7 +5,7 @@ I'm not a super active coder rn but I'm currently working on:
 - A begineer's book to Python (with Herricks Coding Club)!
 - CodeForces in Java!
 
-
+Check out my website to read more :)
 <!---
 3nya/3nya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
